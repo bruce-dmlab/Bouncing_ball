@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Bouncingball\Bouncingball\bin\Debug\netcoreapp3.1\Bouncingball.exe
+C:\Users\User\Desktop\Bouncingball\Bouncingball\bin\Debug\netcoreapp3.1\Bouncingball.deps.json
+C:\Users\User\Desktop\Bouncingball\Bouncingball\bin\Debug\netcoreapp3.1\Bouncingball.runtimeconfig.json
+C:\Users\User\Desktop\Bouncingball\Bouncingball\bin\Debug\netcoreapp3.1\Bouncingball.runtimeconfig.dev.json
+C:\Users\User\Desktop\Bouncingball\Bouncingball\bin\Debug\netcoreapp3.1\Bouncingball.dll
+C:\Users\User\Desktop\Bouncingball\Bouncingball\bin\Debug\netcoreapp3.1\Bouncingball.pdb
+C:\Users\User\Desktop\Bouncingball\Bouncingball\obj\Debug\netcoreapp3.1\Bouncingball.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Bouncingball\Bouncingball\obj\Debug\netcoreapp3.1\Bouncingball.Form1.resources
+C:\Users\User\Desktop\Bouncingball\Bouncingball\obj\Debug\netcoreapp3.1\Bouncingball.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Bouncingball\Bouncingball\obj\Debug\netcoreapp3.1\Bouncingball.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Bouncingball\Bouncingball\obj\Debug\netcoreapp3.1\Bouncingball.AssemblyInfo.cs
+C:\Users\User\Desktop\Bouncingball\Bouncingball\obj\Debug\netcoreapp3.1\Bouncingball.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bouncingball\Bouncingball\obj\Debug\netcoreapp3.1\Bouncingball.dll
+C:\Users\User\Desktop\Bouncingball\Bouncingball\obj\Debug\netcoreapp3.1\Bouncingball.pdb
+C:\Users\User\Desktop\Bouncingball\Bouncingball\obj\Debug\netcoreapp3.1\Bouncingball.genruntimeconfig.cache
